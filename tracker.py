@@ -96,3 +96,4 @@ cv2.destroyAllWindows()
 
 print(f"\n🎯 Total players tracked: {player_id_counter}")
 print(f"📊 ID history lengths: {dict((k, len(v)) for k,v in id_history.items())}")
+
