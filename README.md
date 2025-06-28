@@ -11,7 +11,7 @@ This project implements a player re-identification pipeline using a YOLOv11 mode
 3. Ensure Required Files Are Present
    tracker.py,  
    utils.py,  
-   best.pt (YOLOv11 weights),,  
+   best.pt (YOLOv11 weights),,  https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view  (download model from gdrive link)
    15sec_input_720p.mp4 (input video)
 
 
